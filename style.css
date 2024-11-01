@@ -17,8 +17,13 @@ a {
     text-decoration: none;
 }
 
-.main-container{
+.container {
     width: 100%;
+    min-height: 200px;
+ }
+
+.main-container{
+    width: 1100;
     margin: auto;
 }
 
